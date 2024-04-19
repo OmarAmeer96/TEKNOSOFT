@@ -21,4 +21,4 @@ A simple and intuitive ToDo list app built with Flutter, powered by Hive databas
 ## Getting Started
 
 1. Clone the repository:
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/OmarAmeer96/TEKNOSOFT.git)
+   git clone https://github.com/OmarAmeer96/TEKNOSOFT.git
