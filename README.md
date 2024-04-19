@@ -18,6 +18,11 @@ A simple and intuitive ToDo list app built with Flutter, powered by Hive databas
 - Hive: A lightweight and fast NoSQL database for Flutter.
 - Cubit: A lightweight state management solution for Flutter applications.
 
+## Screen Record of the Application
+
+https://github.com/OmarAmeer96/TEKNOSOFT/assets/93061060/fed12fef-e816-474e-a3e7-b270db5ba0a1
+
+
 ## Getting Started
 
 1. Clone the repository:
